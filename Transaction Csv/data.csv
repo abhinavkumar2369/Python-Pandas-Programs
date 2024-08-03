@@ -1,0 +1,21 @@
+TransactionID,Name,TransactionDate,Amount,Description
+1,Rahul Sharma,2024-07-01,1500,Groceries
+2,Priya Gupta,2024-07-02,2000,Electronics
+3,Ravi Kumar,2024-07-03,500,Travel
+4,Anjali Mehta,2024-07-04,3000,Shopping
+5,Amit Singh,2024-07-05,1000,Utilities
+6,Rahul Sharma,2024-07-06,1500,Groceries
+7,Neha Verma,2024-07-07,2500,Medical
+8,Siddharth Rao,2024-07-08,1200,Education
+9,Priya Gupta,2024-07-02,2000,Electronics
+10,Ravi Kumar,2024-07-09,800,Entertainment
+11,Anjali Mehta,2024-07-04,3000,Shopping
+12,Amit Singh,2024-07-10,500,Transport
+13,Neha Verma,2024-07-11,1500,Groceries
+14,Siddharth Rao,2024-07-12,2200,Insurance
+15,Rahul Sharma,2024-07-13,1500,Groceries
+16,Priya Gupta,2024-07-14,3500,Furniture
+17,Ravi Kumar,2024-07-03,500,Travel
+18,Anjali Mehta,2024-07-15,3000,Shopping
+19,Amit Singh,2024-07-16,2000,Electronics
+20,Neha Verma,2024-07-17,3000,Shopping
